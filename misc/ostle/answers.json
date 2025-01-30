@@ -1,6 +1,9 @@
 {
     "answers": [
         {"audio": "assets/song1.mp3", "answer": "The Legend of Zelda: Ocarina of Time"},
-        {"audio": "assets/song2.mp3", "answer": "Minecraft"}
+        {"audio": "assets/song2.mp3", "answer": "Minecraft"},
+        {"audio": "assets/song3.mp3", "answer": "Halo"},
+        {"audio": "assets/song4.mp3", "answer": "The Elder Scrolls V: Skyrim"}
+        
     ]
 }
