@@ -1,0 +1,10 @@
+{
+    "answers": [
+        {"audio": "assets/song1.mp3", "answer": "The Legend of Zelda: Ocarina of Time"},
+        {"audio": "audio2.mp3", "answer": "guitar"},
+        {"audio": "audio3.mp3", "answer": "violin"},
+        {"audio": "audio4.mp3", "answer": "flute"},
+        {"audio": "audio5.mp3", "answer": "drums"},
+        {"audio": "audio6.mp3", "answer": "saxophone"}
+    ]
+}
